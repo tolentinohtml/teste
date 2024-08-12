@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de IMC</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="oque">
+                <h3>O que é o Índice de Massa Corporal?</h3>
+            </div>
+            <section class="oque2">
+                <h5>O Índice de Massa Corporal (IMC) é uma das principais ferramentas, adotada inclusive pela Organização Mundial de Saúde (OMS), para calcular o chamado “peso ideal”.</h5>
+                
+            </section>
+            <h1 class="titulo">Calculadora de IMC:</h1>
+        </header> 
+        <section class="input-section">
+            <div class="input-group">
+                <label for="peso">Peso (kg):</label>
+                <input type="number" id="peso" step="0.1" required placeholder="Ex: (50 kg)">
+            </div>
+            <div class="input-group">
+                <label for="altura">Altura (cm):</label>
+                <input type="number" id="altura" step="0.1" required placeholder="Ex: (160 cm)">
+                <h4>Fórmula do IMC:<br>IMC = Peso/(Altura x Altura).</h4>
+            </div>
+            <img id="calcular" src="imc.png" alt="Calcular IMC" class="botao-imagem">
+        </section>
+        <section id="resultado" class="resultado-section" style="display: none;">
+            <img id="resultadoImagem" src="resultado-icon.png" alt="Resultado Icon" class="icon">
+            <p id="resultadoTexto"></p>
+        </section>
+        <section id="erro" class="erro-section"></section>
+    </div>
+
+    <footer>
+        <script src="script.js"></script>
+    </footer>
+</body>
+</html>

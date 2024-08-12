@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('imc-icon.jpg') no-repeat center center fixed;
+    background-size:cover;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height: 100vh;
+    margin: 15px;
+    opacity: 100%;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 50px;
+    border-radius: 10px;
+    
+    text-align: justify;
+    max-width: 400px;
+    width: 100%;
+    opacity: 1.0;
+    background-size: cover;
+   
+}
+
+header h1 {
+    color: #ff0606;
+    margin-bottom: 20px;
+}
+
+.input-section {
+    margin-bottom: 20px;
+    color: #ff0606;
+}
+
+.input-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ff0000;
+}
+
+input {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border: 1px solid #ff0000;
+    border-radius: 4px;
+}
+
+.botao-imagem {
+    cursor: pointer;
+    width: 100px;
+    height: auto;
+    margin-top: 20px;
+}
+
+.botao-imagem:hover{
+    opacity: 0.7;
+}
+.icon {
+    width: 400px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.resultado-section {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #ff0000;
+}
+
+.erro-section {
+    margin-top: 10px;
+    color: red;
+}
+
+.oque {
+    color: chartreuse;
+    text-align:start;
+}
+
+.oque2 {
+    color: blue;
+    text-align: justify;
+}
+
+.titulo {
+    text-align: center;
+}
+.botao-imagem{
+    height: 50%;
+    width: 50%;
+}
+h4{
+    color:chartreuse;
+}
+@media(max-width: 450px){
+        body{
+            height: 900px;
+        h4{
+            text-align: initial;
+            align-items: start;
+        }
+        .container{
+            border-radius: 0px;
+            box-shadow: 0 0 1000px rgb(0, 0, 0);
+            
+         
+        }
+    }
+}

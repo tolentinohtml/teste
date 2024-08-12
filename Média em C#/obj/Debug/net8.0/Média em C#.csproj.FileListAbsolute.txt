@@ -1,0 +1,14 @@
+D:\Users\20241170150031\Desktop\Média em C#\bin\Debug\net8.0\Média em C#.exe
+D:\Users\20241170150031\Desktop\Média em C#\bin\Debug\net8.0\Média em C#.deps.json
+D:\Users\20241170150031\Desktop\Média em C#\bin\Debug\net8.0\Média em C#.runtimeconfig.json
+D:\Users\20241170150031\Desktop\Média em C#\bin\Debug\net8.0\Média em C#.dll
+D:\Users\20241170150031\Desktop\Média em C#\bin\Debug\net8.0\Média em C#.pdb
+D:\Users\20241170150031\Desktop\Média em C#\obj\Debug\net8.0\Média em C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150031\Desktop\Média em C#\obj\Debug\net8.0\Média em C#.AssemblyInfoInputs.cache
+D:\Users\20241170150031\Desktop\Média em C#\obj\Debug\net8.0\Média em C#.AssemblyInfo.cs
+D:\Users\20241170150031\Desktop\Média em C#\obj\Debug\net8.0\Média em C#.csproj.CoreCompileInputs.cache
+D:\Users\20241170150031\Desktop\Média em C#\obj\Debug\net8.0\Média em C#.dll
+D:\Users\20241170150031\Desktop\Média em C#\obj\Debug\net8.0\refint\Média em C#.dll
+D:\Users\20241170150031\Desktop\Média em C#\obj\Debug\net8.0\Média em C#.pdb
+D:\Users\20241170150031\Desktop\Média em C#\obj\Debug\net8.0\Média em C#.genruntimeconfig.cache
+D:\Users\20241170150031\Desktop\Média em C#\obj\Debug\net8.0\ref\Média em C#.dll

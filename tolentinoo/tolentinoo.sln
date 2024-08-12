@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tolentinoo", "tolentinoo.csproj", "{28F47CC8-D761-4BBA-95E9-754FFA6C31D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F47CC8-D761-4BBA-95E9-754FFA6C31D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F47CC8-D761-4BBA-95E9-754FFA6C31D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F47CC8-D761-4BBA-95E9-754FFA6C31D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F47CC8-D761-4BBA-95E9-754FFA6C31D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BBEC694-6232-42DE-A94E-0A4910DB9723}
+	EndGlobalSection
+EndGlobal

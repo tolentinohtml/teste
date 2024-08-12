@@ -1,0 +1,14 @@
+D:\Users\20241170150031\Desktop\tolentinoo\obj\Debug\net8.0\tolentinoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150031\Desktop\tolentinoo\obj\Debug\net8.0\tolentinoo.AssemblyInfoInputs.cache
+D:\Users\20241170150031\Desktop\tolentinoo\obj\Debug\net8.0\tolentinoo.AssemblyInfo.cs
+D:\Users\20241170150031\Desktop\tolentinoo\obj\Debug\net8.0\tolentinoo.csproj.CoreCompileInputs.cache
+D:\Users\20241170150031\Desktop\tolentinoo\bin\Debug\net8.0\tolentinoo.exe
+D:\Users\20241170150031\Desktop\tolentinoo\bin\Debug\net8.0\tolentinoo.deps.json
+D:\Users\20241170150031\Desktop\tolentinoo\bin\Debug\net8.0\tolentinoo.runtimeconfig.json
+D:\Users\20241170150031\Desktop\tolentinoo\bin\Debug\net8.0\tolentinoo.dll
+D:\Users\20241170150031\Desktop\tolentinoo\bin\Debug\net8.0\tolentinoo.pdb
+D:\Users\20241170150031\Desktop\tolentinoo\obj\Debug\net8.0\tolentinoo.dll
+D:\Users\20241170150031\Desktop\tolentinoo\obj\Debug\net8.0\refint\tolentinoo.dll
+D:\Users\20241170150031\Desktop\tolentinoo\obj\Debug\net8.0\tolentinoo.pdb
+D:\Users\20241170150031\Desktop\tolentinoo\obj\Debug\net8.0\tolentinoo.genruntimeconfig.cache
+D:\Users\20241170150031\Desktop\tolentinoo\obj\Debug\net8.0\ref\tolentinoo.dll
